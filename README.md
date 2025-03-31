@@ -1,12 +1,14 @@
 # PascalCompilier
-Компилятор Pascal на Python
-Команда:
-Дмитрий Ашеулов
-Токарев Даниил
-Давыдов Игорь
+Компилятор Pascal на Python  
 
+Команда:
+- Дмитрий Ашеулов
+- Токарев Даниил
+- Давыдов Игорь
+____
 Входные данные:
-```Program beer;
+```
+Program beer;
             var
             e, b : integer;
             d, f: array [1 .. 100] of integer;
@@ -29,8 +31,11 @@
             g:=Alpha(4);
             WriteLn(g);
 
-            END.```
+            END.
+```
+____
 Выходные данные:
+```
 Program
 ├ beer
 ├ var
@@ -95,3 +100,4 @@ Program
     └ call
       ├ WriteLn
       └ g
+```
