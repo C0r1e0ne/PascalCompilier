@@ -6,7 +6,7 @@
 Давыдов Игорь
 
 Входные данные:
-Program beer;
+```Program beer;
             var
             e, b : integer;
             d, f: array [1 .. 100] of integer;
@@ -29,7 +29,7 @@ Program beer;
             g:=Alpha(4);
             WriteLn(g);
 
-            END.
+            END.```
 Выходные данные:
 Program
 ├ beer
